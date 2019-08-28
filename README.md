@@ -13,6 +13,8 @@ Status：
 [https://blockmeta.com/address/bm1q3yfmhe8ly6kptjup629xmxwrauvmj96er96c02](https://blockmeta.com/address/bm1q3yfmhe8ly6kptjup629xmxwrauvmj96er96c02)
 
 News
+
 [Bytom Challenge to win 4,000BTM](https://medium.com/@Bytom_Official/bytom-challenge-to-win-4-000btm-abfdbe2b2da5)
+
 [How to win the prize hidden in “Dwelling in the Fuchun Mountains”](https://medium.com/@Bytom_Official/how-to-win-the-prize-hidden-in-dwelling-in-the-fuchun-mountains-c24db6ce8f44)
 
